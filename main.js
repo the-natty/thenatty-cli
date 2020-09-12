@@ -6,7 +6,7 @@ const downGit = require('./src/downLoad')
 const options = require('./src/options')
 
 cmd.command('create').description('create project').action(async (args) => {
-    typeof args !== 'string' && (console.log(chalk.red('essential option -create')), process.exit(1))
+    typeof args !== 'string' && (console.log(chalk.red('essential option -your-project-name')), process.exit(1))
 
     // 填选项
     await options()

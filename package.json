@@ -1,6 +1,6 @@
 {
   "name": "akc-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "akc cli",
   "main": "main.js",
   "keywords": [
@@ -8,9 +8,7 @@
     "akc",
     "akc-cli"
   ],
-  "scripts": {
-    
-  },
+  "scripts": {},
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^3.0.2",
