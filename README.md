@@ -1,18 +1,18 @@
-# akc-cli
+# thenatty-cli
 
 ## 安装
 ### user npm
 ``` sh
-npm i akc-cli -g
+npm i thenatty-cli -g
 ```
 ### user yarn
 ``` sh
-yarn add akc-cli -g
+yarn add thenatty-cli -g
 ```
 
 ## 使用
 ```sh
-akc create your-project-name
+thenatty create your-project-name
 ```
 
 <!-- [Full Docs](https://cli.vuejs.org/) -->
